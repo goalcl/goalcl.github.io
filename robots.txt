@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://goalcl.github.io/wZM/sitemap.wZM.gz
